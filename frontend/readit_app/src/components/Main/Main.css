@@ -1,3 +1,8 @@
+@font-face {
+  font-family: "circular-std-med";
+  src: url("../assets/fonts/CircularStd-Medium.ttf") format("truetype");
+}
+
 .landing__logo-container {
   text-align: center;
 }
